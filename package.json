@@ -1,0 +1,23 @@
+{
+  "name": "natescalculator",
+  "version": "1.0.0",
+  "description": "A simple calculator",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natudemy/Cal.git"
+  },
+  "author": "Nate Ghilazghi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natudemy/Cal/issues"
+  },
+  "homepage": "https://github.com/natudemy/Cal#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
